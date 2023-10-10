@@ -1,4 +1,4 @@
-package br.com.lista_linear.logic;
+package br.com.lista_encadeada.logic;
 
 public class Logic {
 	private Node head;

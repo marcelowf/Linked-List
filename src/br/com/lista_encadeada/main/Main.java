@@ -1,7 +1,8 @@
-package br.com.lista_linear.main;
+package br.com.lista_encadeada.main;
 
 import java.util.Scanner;
-import br.com.lista_linear.logic.Logic;
+
+import br.com.lista_encadeada.logic.Logic;
 
 public class Main {
 	public static void main(String[] args) {

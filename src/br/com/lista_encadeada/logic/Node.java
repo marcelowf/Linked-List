@@ -1,4 +1,4 @@
-package br.com.lista_linear.logic;
+package br.com.lista_encadeada.logic;
 
 class Node {
     private int data;
